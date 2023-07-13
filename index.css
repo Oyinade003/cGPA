@@ -1,0 +1,70 @@
+.calcBody{
+    border: 2px solid brown;
+    margin: 70px 200px 200px 200px;
+}
+
+.mainbody{
+    background-color: #fff;
+    padding: 20px 20px;
+}
+
+.header{
+    text-align: center;
+    background-color: rgba(165, 42, 42, 0.7);
+    height: 100px;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+}
+
+hr{
+    size: bold;
+}
+
+.courses{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.coursecode{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.coursetitle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.courseunits{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.grades{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; 
+}
+
+#space{
+    margin-top: 20px;
+    width: fit-content;
+    border: brown 0.2px solid;
+    border-radius: 15px;
+    background-color: rgba(165, 42, 42, 0.1);
+    padding: 10px 5px 10px 5px;
+    color: #000;
+}
+
+
